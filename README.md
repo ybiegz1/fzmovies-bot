@@ -20,4 +20,4 @@ git clone https://github.com/ybiegz1/fzmovies-bot.git
 cd fzmovies-bot
 npm install
 pip install -r requirements.txt
-run using node fz.js
+node fz.js
