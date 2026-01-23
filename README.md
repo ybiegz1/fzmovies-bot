@@ -3,11 +3,9 @@
 A WhatsApp bot built with **Node.js (Baileys)** and a **Python scraper** for FzMovies.
 
 ## ✨ Features
-- Movie search
 - Interactive selection (1–5)
 - Auto fetch direct download links
-- required API required
--.movie <name of the movie> 
+- .movie name of movie to search 
 ## 🛠 Requirements
 - Node.js 18+
 - Python 3.10+
